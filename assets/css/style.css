@@ -233,7 +233,7 @@
   transition: 0.5s;
   visibility: hidden;
   opacity: 0;
-  transform: translateY(50%);
+  transform: translateY(100%);
 }
 .playList__container.list-open {
   visibility: visible;
