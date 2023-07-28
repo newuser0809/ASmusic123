@@ -427,6 +427,7 @@
 /* Play List */
 
 .toggle {
+  z-index: 2;
   cursor: pointer;
   position: relative;
   display: flex;
